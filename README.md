@@ -1,2 +1,2 @@
-# hello-world-
-Another repository.
+# operativni_sistemi
+Djordje Molnar
